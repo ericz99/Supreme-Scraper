@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Wool Camp Cap",
+    "id": 171959,
+    "image_url": "//assets.supremenewyork.com/158423/ca/mH6fISyVDjU.jpg",
+    "image_url_hi": "//assets.supremenewyork.com/158423/rc/mH6fISyVDjU.jpg",
+    "price": 5400,
+    "sale_price": 0,
+    "new_item": true,
+    "position": 23,
+    "category_name": "Hats"
+  },
+  {
+    "name": "Contrast Boonie",
+    "id": 171971,
+    "image_url": "//assets.supremenewyork.com/159201/ca/yVI5a3h_GcY.jpg",
+    "image_url_hi": "//assets.supremenewyork.com/159201/rc/yVI5a3h_GcY.jpg",
+    "price": 6000,
+    "sale_price": 0,
+    "new_item": true,
+    "position": 26,
+    "category_name": "Hats"
+  },
+  {
+    "name": "New Era® Box Logo Beanie",
+    "id": 171958,
+    "image_url": "//assets.supremenewyork.com/159451/ca/f9fX2r2xLUU.jpg",
+    "image_url_hi": "//assets.supremenewyork.com/159451/rc/f9fX2r2xLUU.jpg",
+    "price": 3800,
+    "sale_price": 0,
+    "new_item": true,
+    "position": 27,
+    "category_name": "Hats"
+  },
+  {
+    "name": "Clear Patch Camp Cap",
+    "id": 171945,
+    "image_url": "//assets.supremenewyork.com/158555/ca/6hvpNvZTSMI.jpg",
+    "image_url_hi": "//assets.supremenewyork.com/158555/rc/6hvpNvZTSMI.jpg",
+    "price": 4400,
+    "sale_price": 0,
+    "new_item": false,
+    "position": 24,
+    "category_name": "Hats"
+  },
+  {
+    "name": "Performance Nylon 6-Panel",
+    "id": 171946,
+    "image_url": "//assets.supremenewyork.com/158735/ca/7KXNS_hTHA0.jpg",
+    "image_url_hi": "//assets.supremenewyork.com/158735/rc/7KXNS_hTHA0.jpg",
+    "price": 4800,
+    "sale_price": 0,
+    "new_item": false,
+    "position": 25,
+    "category_name": "Hats"
+  }
+]
