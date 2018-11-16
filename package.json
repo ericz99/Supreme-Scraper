@@ -1,7 +1,8 @@
 {
-  "name": "vultr_gen",
+  "name": "supreme-scraper",
+  "bin": "index.js",
   "version": "1.0.0",
-  "description": "Vultr Proxy Maker ",
+  "description": "Supreme Scraper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
